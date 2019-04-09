@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Reboot Reminder
  * Description: A simple reminder plugin for clients and their repeatable products. Founder: <a href="http://kbcelik.com">Kenan Barış Çelik</a> | <a href="https://brain.work">Brain Work</a>.
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      Reboot
  * Author URI:  https://reboot.com.tr
  * Text Domain: reboot-reminder
